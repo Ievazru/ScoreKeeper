@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="latvia">Latvia</string>
+    <string name="germany">Germany</string>
+    <string name="total_penalty_minutes">Total penalty minutes</string>
+    <string name="game_winning_shots">Game-winning shots</string>
+    <string name="goalLatvia">Goal</string>
+    <string name="gwsLatvia">GWS</string>
+    <string name="penalty_minutes_Latvia">Penalty minutes</string>
+    <string name="goalGermany">Goal</string>
+    <string name="gwsGermany">GWS</string>
+    <string name="penalty_minutes_Germany">Penalty minutes</string>
+    <string name="reset">Reset</string>
+</resources>
